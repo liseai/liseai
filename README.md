@@ -1,5 +1,6 @@
-![Texto (1)](https://github.com/user-attachments/assets/568fd166-364b-4839-bbcd-d583ce192a28)
+![gif github](https://github.com/user-attachments/assets/9f14bfd0-5262-4edc-b273-d30db01494ca)
 # Hi there 👋
+
 
 <!--
 **liseai/liseai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
