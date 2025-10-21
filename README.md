@@ -3,9 +3,7 @@
 # Hi there! 👋🏻 I'm Lidia 💌
 ### Conversational Designer & Computational Linguist 
 
-*Preserving what makes us human in every interaction*
 
-I work at the intersection of language, technology, and the humanities—designing conversational experiences that honor the full spectrum of human communication. Not just words, but the feelings behind them.
 
 ## 🌟 What Drives My Work
 
