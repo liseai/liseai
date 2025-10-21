@@ -3,8 +3,6 @@
 # Hi there! 👋🏻 I'm Lidia 💌
 ### Conversational Designer & Computational Linguist 
 
-
-
 ## 🌟 What Drives My Work
 
 I don't just build AI agents and chatbots; I fight to craft personalities. I design conversational AI that doesn't just understand what you're saying, but senses and reacts at how you're feeling. Being human means being emotional, and our technology should reflect that statement.
@@ -68,13 +66,13 @@ A goal-oriented conversational agent designed specifically for video game enviro
 I combine computational linguistics with an understanding of what moves people. Every project is guided by one question: Does this preserve our humanity, or diminish it?
 My work focuses on:
 
-✨ Applying AI creatively to generate conversational experiences that feel genuine
-🔧 Automating linguistic processes without sacrificing the depth and context of human communication
-🤝 Bringing computational tools to humanistic environments
-🔍 Making linguistic research more accessible through technology
-💝 Ensuring that as machines learn to speak, they learn to speak with warmth, passion, and depth
+- ✨ Applying AI creatively to generate conversational experiences that feel genuine
+- 🔧 Automating linguistic processes without sacrificing the depth and context of human communication
+- 👥 Bringing computational tools to humanistic environments
+- 🔍 Making linguistic research more accessible through technology
+- ❤️‍🩹 Ensuring that as machines learn to speak, they learn to speak with warmth, passion, and depth
 
 ## 💌 Connect with Me!
 
-LinkedIn: https://www.linkedin.com/in/liseai/
-Email: lidia.segura.aiza@gmail.com
+- LinkedIn: https://www.linkedin.com/in/liseai/
+- Email: lidia.segura.aiza@gmail.com
