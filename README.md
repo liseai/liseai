@@ -25,7 +25,7 @@ Every day, I work to ensure that these agents don't just process queries — the
 
 Conflict is one of the most emotionally charged forms of human communication — what we say and how we say it reveals our deepest needs, fears, and patterns. By applying computational methods to this intimate data, I'm exploring how technology can help us understand ourselves better, not replace our capacity for connection.
 
-**Methods**: Corpus linguistics • NLP pattern extraction • Sentiment analysis • Discourse analysis • Data analisys
+**Methods**: Corpus linguistics • NLP pattern extraction • Sentiment analysis • Discourse analysis • Data analysis
 
 ### 🎮 Exploring Creative Frontiers
 **Where AI Meets Artistry**
