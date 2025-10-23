@@ -12,7 +12,7 @@ I don't just build AI agents and chatbots; I fight to craft personalities. I des
 ### 👩🏻‍💻 AI Agents for Customer Service
 **Current Role: Conversational Designer & Prompt Engineer at Lovi AI**
 
-I'm designing multichannel AI agents (voice and chat) for customer service and educational enterprises. This is where theory meets practice: How do we automate without becoming cold? How do we solve problems efficiently while making people feel heard, valued, and understood? 
+I'm designing multichannel AI agents (voice and chat) for customer service and educational enterprises. My everyday questions are: How do we automate without becoming cold? How do we solve problems efficiently while making people feel heard, valued, and understood? 
 
 Every day, I work to ensure that these agents don't just process queries — they recognize frustration, offer patience, and leave people feeling better than when they started. Because customer service isn't just about solving problems; it's about honoring the human on the other side of the conversation. It's about giving people a great response on any chanel, at any given time.
 
