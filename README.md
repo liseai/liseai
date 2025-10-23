@@ -23,7 +23,7 @@ Every day, I work to ensure that these agents don't just process queries — the
 
 **Goal**: Build a specialized tool to analyze corpus data from conflict conversations between couples and in intimate environments. Using NLP, we'll extract communicative patterns and relational dynamics to understand the emotional architecture of human conflict and connection.
 
-Conflict is one of the most emotionally charged forms of human communication—where what we say and how we say it reveals our deepest needs, fears, and patterns. By applying computational methods to this intimate data, I'm exploring how technology can help us understand ourselves better, not replace our capacity for connection.
+Conflict is one of the most emotionally charged forms of human communication — what we say and how we say it reveals our deepest needs, fears, and patterns. By applying computational methods to this intimate data, I'm exploring how technology can help us understand ourselves better, not replace our capacity for connection.
 
 **Methods**: Corpus linguistics • NLP pattern extraction • Sentiment analysis • Discourse analysis • Data analisys
 
@@ -34,7 +34,7 @@ As a gamer and student of digital literature, I've realized something crucial: o
 
 What if NPCs could surprise you? Challenge you emotionally? Remember your choices and grow with you? What if a game conversation could be as memorable as one with a real friend?
 
-This vision drove me to create **Sputnik** for my Master's thesis (detailed below), and it continues to drive my exploration of AI in gaming and interactive narratives. I want to work on any project where AI characters don't just fill space—they engage, feel real, and transform the gaming experience into something genuinely human.
+This vision drove me to create **Sputnik** for my Master's thesis (detailed below), and it continues to drive my exploration of AI in gaming and interactive narratives. I want to work on any project where AI characters don't just fill space — they engage, feel real, and transform the gaming experience into something genuinely human.
 
 **Passion areas**: 
 * Interactive narrative design
